@@ -2,8 +2,8 @@
 #include <stdarg.h>
 /**
  * _printf - prints formatted output to the console
- * @format: a string that contains placeholders for the values that will be printed
- *
+ * @format: a string that contains placeholders
+ * for the values that will be printed
  * Return: the number of characters written to the console
  */
 
